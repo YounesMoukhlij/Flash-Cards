@@ -7,6 +7,8 @@ A modern, interactive flash cards application built with React, demonstrating st
 
 [✅ Back to Web Roadmap Projects ✅](https://github.com/YounesMoukhlij/web-roadmap-projects)
 
+[📋 Project Requirements](https://roadmap.sh/projects/flash-cards)
+
 ![Flash Cards App](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.1.0-646CFF?logo=vite)
