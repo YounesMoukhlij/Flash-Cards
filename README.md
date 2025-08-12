@@ -27,10 +27,10 @@ A modern, interactive flash cards application built with React, demonstrating st
 ## 🖼️ Screenshots
 
 ### Question View
-![Flash Card Question](images/1.png)
+<img src="images/1.png" alt="Flash Card Question" width="500">
 
 ### Answer View
-![Flash Card Answer](images/2.png)
+<img src="images/2.png" alt="Flash Card Answer" width="500">
 
 ## 🚀 Getting Started
 
